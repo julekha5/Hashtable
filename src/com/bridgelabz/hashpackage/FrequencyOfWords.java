@@ -37,7 +37,6 @@ public class FrequencyOfWords {
 			System.out.println(result);
 		}
 	}
-
 	// main
 	public static void main(String[] args) {
 		FrequencyOfWords obj = new FrequencyOfWords();
